@@ -1,0 +1,8 @@
+Copy all the text from my example vim configuration, adjust it as needed. 
+-Language sensitive
+-Autotabbing with 4 spaces
+-Color codes variables/function names/etc
+
+Paste the text into ~/.vimrc
+If vimrc doesn't exist on your machine, create it and vim will automatically source 
+the configuation to that location.
